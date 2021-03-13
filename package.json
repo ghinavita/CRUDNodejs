@@ -1,0 +1,26 @@
+{
+  "name": "crudbutik",
+  "version": "1.0.0",
+  "description": "CRUD Butik Pakaian\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016https://github.com/ghinavita/CRUDNodejs"
+  },
+  "keywords": [
+    "CRUD"
+  ],
+  "author": "Ghina Rosvita Maharanisa",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^5.0.0-beta2",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "jquery": "^3.6.0",
+    "mysql": "^2.18.1"
+  }
+}
